@@ -1,0 +1,5 @@
+computer:
+  username: caochenlei
+  password: test123456
+  env: test
+  version: 1
